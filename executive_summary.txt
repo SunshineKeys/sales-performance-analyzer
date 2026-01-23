@@ -1,0 +1,32 @@
+======================================================================
+SALES PERFORMANCE ANALYSIS - EXECUTIVE SUMMARY
+======================================================================
+
+KEY METRICS
+----------------------------------------------------------------------
+Total Revenue: $6,700
+Total Transactions: 6
+Average Sale Value: $1,116.67
+Data Period: 2024-01-31 to 2024-06-30
+
+TOP PERFORMERS
+----------------------------------------------------------------------
+Best Region: East ($2,700, 40.3%)
+Best Product: Product A ($4,000, 59.7%)
+Best Month: March ($2,000)
+
+STRATEGIC RECOMMENDATIONS
+----------------------------------------------------------------------
+1. Focus resources on East region and Product A
+2. Investigate zero-sales combinations:
+   - Product B in East
+   - Product C in East
+   - Product B in South
+3. Leverage region-specific strengths:
+   - East: Product A
+   - South: Product A
+   - West: Product B
+
+======================================================================
+END OF REPORT
+======================================================================
