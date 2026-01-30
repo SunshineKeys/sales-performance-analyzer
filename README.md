@@ -73,7 +73,39 @@ Transforms raw sales data into actionable business intelligence:
 
 
 ---
+## 🚀 How to Run
 
+### Prerequisites
+- Python 3.x
+- pandas library
+
+### Installation
+```bash
+# Install required library
+pip install pandas
+```
+
+### Usage
+```bash
+# Navigate to project directory
+cd sales-performance-analyzer
+
+# Run the analyzer
+python portfolio_project.py
+```
+
+### Expected Output
+The script generates 5 analysis files:
+- `sales_metrics.csv` - Overall performance KPIs
+- `regional_performance.csv` - Region-by-region breakdown
+- `product_performance.csv` - Product analysis
+- `region_product_matrix.csv` - Pivot table analysis
+- `executive_summary.txt` - Stakeholder-ready report with insights
+
+All outputs are created in the same directory and ready for Excel or further analysis.
+
+### Sample Data
+Uses `sales_data.csv` included in the repository. Data includes regions (North, South, East, West), products (A, B, C), and sales transactions.
 
 
 \*\*Portfolio Project #2 | Pharmacy Technician → Data Analyst Transition\*\*
